@@ -1,4 +1,4 @@
-class Persona:Add commentMore actions
+class Persona:
 
     def inicializar(self,nom):
         self.nombre=nom
